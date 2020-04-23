@@ -1,0 +1,11 @@
+C:\Users\imWUMPUS\source\repos\CSharp_April2020\Day4\SplitMethod\SplitMethod\bin\Debug\netcoreapp3.1\SplitMethod.exe
+C:\Users\imWUMPUS\source\repos\CSharp_April2020\Day4\SplitMethod\SplitMethod\bin\Debug\netcoreapp3.1\SplitMethod.deps.json
+C:\Users\imWUMPUS\source\repos\CSharp_April2020\Day4\SplitMethod\SplitMethod\bin\Debug\netcoreapp3.1\SplitMethod.runtimeconfig.json
+C:\Users\imWUMPUS\source\repos\CSharp_April2020\Day4\SplitMethod\SplitMethod\bin\Debug\netcoreapp3.1\SplitMethod.runtimeconfig.dev.json
+C:\Users\imWUMPUS\source\repos\CSharp_April2020\Day4\SplitMethod\SplitMethod\bin\Debug\netcoreapp3.1\SplitMethod.dll
+C:\Users\imWUMPUS\source\repos\CSharp_April2020\Day4\SplitMethod\SplitMethod\bin\Debug\netcoreapp3.1\SplitMethod.pdb
+C:\Users\imWUMPUS\source\repos\CSharp_April2020\Day4\SplitMethod\SplitMethod\obj\Debug\netcoreapp3.1\SplitMethod.csprojAssemblyReference.cache
+C:\Users\imWUMPUS\source\repos\CSharp_April2020\Day4\SplitMethod\SplitMethod\obj\Debug\netcoreapp3.1\SplitMethod.AssemblyInfoInputs.cache
+C:\Users\imWUMPUS\source\repos\CSharp_April2020\Day4\SplitMethod\SplitMethod\obj\Debug\netcoreapp3.1\SplitMethod.AssemblyInfo.cs
+C:\Users\imWUMPUS\source\repos\CSharp_April2020\Day4\SplitMethod\SplitMethod\obj\Debug\netcoreapp3.1\SplitMethod.dll
+C:\Users\imWUMPUS\source\repos\CSharp_April2020\Day4\SplitMethod\SplitMethod\obj\Debug\netcoreapp3.1\SplitMethod.pdb
